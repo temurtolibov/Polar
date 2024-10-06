@@ -1,0 +1,124 @@
+.paragrf {
+  text-align: center;
+  padding-top: 132px;
+  color: #150101;
+  font-family: "Hind Madurai";
+  font-weight: 600;
+  font-size: 44px;
+  line-height: 61px;
+}
+
+.our-menus {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 40px;
+  padding-top: 64px;
+  cursor: pointer;
+}
+
+.ice-cream {
+  text-decoration: underline 3px #d64374;
+}
+
+.our-menus p {
+  color: black;
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  text-transform: uppercase;
+}
+
+.brown-bread {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 50px;
+}
+
+.brown-bread-text h2 {
+  font-family: "Hind Madurai";
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 35px;
+  color: black;
+}
+
+.brown-bread-text p {
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: black;
+  opacity: 70%;
+  padding-top: 11px;
+  padding-bottom: 28px;
+  max-width: 454px;
+}
+
+.numbers {
+  display: flex;
+  column-gap: 5px;
+  padding-bottom: 16px;
+  font-family: "Hind Madurai";
+  font-weight: 500;
+  font-size: 26px;
+  line-height: 36px;
+}
+
+.amirican-img {
+  display: flex;
+  align-items: center;
+  column-gap: 11px;
+}
+
+.name-div h3 {
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.name-div p {
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 14px;
+  opacity: 70%;
+}
+
+.moments {
+  display: flex;
+  column-gap: 12px;
+  max-width: 350px;
+  padding-top: 50px;
+}
+
+.span-duoble {
+  position: relative;
+  top: 75px;
+  right: 230px;
+}
+
+.span-text p {
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  opacity: 70%;
+}
+
+.images3 {
+  display: flex;
+  align-items: center;
+  column-gap: 26px;
+  padding-top: 57px;
+}
+
+.name-cream {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 120px;
+}

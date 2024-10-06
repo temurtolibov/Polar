@@ -1,0 +1,51 @@
+.section6-h1 {
+  max-width: 522px;
+  position: relative;
+  left: 350px;
+}
+
+.section6-h1 h1 {
+  text-align: center;
+  padding-top: 111px;
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
+}
+
+.number {
+  border: 1px solid #ffa3a3;
+  padding: 29px 156px 29px 25px;
+  border-radius: 5px;
+}
+
+.type {
+  border: 1px solid #ffa3a3;
+  padding: 29px 156px 29px 25px;
+  border-radius: 5px;
+}
+
+.question {
+  border: 1px solid #ffa3a3;
+  padding: 29px 156px 29px 25px;
+  border-radius: 5px;
+  width: 595px;
+}
+
+.form1 {
+  display: flex;
+  justify-content: center;
+  column-gap: 30px;
+  padding-top: 40px;
+}
+
+.bottom-sent {
+  padding: 26px 44px 25px 44px;
+}
+
+.form2 {
+  display: flex;
+  justify-content: center;
+  padding-top: 37px;
+  padding-bottom: 110px;
+}

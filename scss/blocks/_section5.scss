@@ -1,0 +1,54 @@
+.section5 {
+  background-color: #f8edf0;
+}
+
+.section5-text span {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.select-menu {
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+}
+
+.section5-text span h5 {
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 26px;
+}
+
+.section5-text h2 {
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
+}
+
+.section5-text p {
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 1%;
+  opacity: 70%;
+  max-width: 600px;
+  padding-top: 20px;
+  padding-bottom: 31px;
+}
+
+.social-media img {
+  position: relative;
+  left: -10px;
+}
+
+.section5-main {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 80px;
+  padding-bottom: 45px;
+}

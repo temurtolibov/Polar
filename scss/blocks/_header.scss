@@ -1,0 +1,84 @@
+.container-none {
+  height: 800px;
+  width: 1225px;
+  margin: 0 auto;
+}
+
+ul li {
+  list-style: none;
+}
+
+ul li a {
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 18px;
+  color: #150101;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 10px;
+}
+
+.menu li {
+  display: flex;
+  column-gap: 40px;
+}
+
+.header {
+  background-color: #f2ceda;
+}
+
+.section-1-text {
+  padding-top: 196px;
+}
+
+.shior {
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 16px;
+  letter-spacing: 2px;
+}
+
+.section-1-text h1 {
+  font-family: "Fredoka";
+  font-weight: 700;
+  font-size: 57px;
+  line-height: 69px;
+  max-width: 660px;
+  padding-top: 6px;
+  color: #0f0101;
+}
+
+.words {
+  font-family: "Hind Madurai";
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  color: #0f0101;
+  opacity: 60%;
+  max-width: 523px;
+  padding-top: 35px;
+  padding-bottom: 50px;
+}
+
+.section1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  padding-bottom: 100px;
+}
+
+.img2 {
+  position: relative;
+  top: -550px;
+  left: 500px;
+}
+
+.section1 img {
+  max-width: 550px;
+}
